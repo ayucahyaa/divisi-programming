@@ -1,3 +1,6 @@
 1.dasar html
 2. dasar css
 3. dasar css3
+4. dasar javascript
+5. javascript es6
+6. dasar php
